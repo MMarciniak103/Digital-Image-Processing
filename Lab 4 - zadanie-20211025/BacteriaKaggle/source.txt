@@ -1,0 +1,4 @@
+Bacteria detection with darkfield microscopy
+
+Źródło:
+	https://www.kaggle.com/longnguyen2306/bacteria-detection-with-darkfield-microscopy
